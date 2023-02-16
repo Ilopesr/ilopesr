@@ -7,8 +7,10 @@ So i'am trying to change the car wheel with car running 200Km/h, aren't easy do 
 <ol>
   <h1><strong>Knowledge</strong></h1>
   <li><strong>PYTHON:</strong> 55/100</li>
+  <li><strong>DJANGO:</strong> 50/100</li>
   <li><strong>HTML5:</strong> 90/100</li>
   <li><strong>CSS:</strong> 80/100</li>
   <li><strong>TAILWIND:</strong> 70/100</li>
   <li><strong>JS:</strong> 50/100</li>
+  
 </ol>
