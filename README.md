@@ -12,5 +12,7 @@ So i'am trying to change the car wheel with car running 200Km/h, aren't easy do 
   <li><strong>CSS:</strong> 80/100</li>
   <li><strong>TAILWIND:</strong> 70/100</li>
   <li><strong>JS:</strong> 50/100</li>
-  
+  <li><strong>GIT:</strong> 30/100</li>
 </ol>
+
+<p>"Don't let your dreams be dream. JUST DO IT!" Shia Labeouf </p>
